@@ -1,3 +1,7 @@
+THIS REPO IS STALL
+NEw REPO : https://github.com/scopen-coop/erpnext_france
+
+
 ## ERPNext France
 
 App for french localization
