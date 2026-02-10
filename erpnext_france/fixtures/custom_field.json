@@ -352,7 +352,7 @@
   "name": "Customer-incoterm",
   "no_copy": 0,
   "non_negative": 0,
-  "options": "EXW ex-works\nFCA free carrier\nFAS free alongside ship\nFOB free on board\nCFR cost and freight\nCIF (COST insurance and freight)\nCPT \u2013 Carriage Paid to (duty paid)\nCIP Carriage and Insurance paid to\nDAF (Delivered at Frontier)\nDES (Delivered ex-ship)\nDEQ (Delivered EX quay)\nDDU (delivered duty unpaid)\nDDP (delivered duty paid)",
+  "options": "EXW ex-works\nFCA free carrier\nFAS free alongside ship\nFOB free on board\nCFR cost and freight\nCIF (COST insurance and freight)\nCPT \u2013 Carriage Paid to (duty paid)\nCIP Carriage and Insurance paid to\nDAF (Delivered at Frontier)\nDES (Delivered ex-ship)\nDEQ (Delivered EX quay)\nDDU (delivered duty unpaid)\nDDP (delivered duty paid)\nDAP delivered at place",
   "parent": null,
   "parentfield": null,
   "parenttype": null,
